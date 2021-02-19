@@ -1,6 +1,10 @@
 # Tek 2 : Second year at Epitech and Second year bis.
  Here I am going to introduce my project done during my second year
 
+## C++ Pool
+At {EPITECH} we have something called the pool : three weeks where we learn all the base of the language, for the second year, it is the C++ language
+- [CPP Pool](https://github.com/BBR2394/pool-CPP) (actually, each folder is a repo so you have to clone it to see all the file (or I will remove the sub .git folder later ) )
+
 ## C++ programming
 At {EPITECH} during the second year, we do a lot of C++ programming
 - AbstractVM : The first project of this class : [AbstractVM](https://github.com/BBR2394/AbstractVM)
